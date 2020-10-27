@@ -1,0 +1,22 @@
+PODS:
+  - Charts (3.5.0):
+    - Charts/Core (= 3.5.0)
+  - Charts/Core (3.5.0)
+  - Plaid (1.1.35)
+
+DEPENDENCIES:
+  - Charts
+  - Plaid
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - Plaid
+
+SPEC CHECKSUMS:
+  Charts: 40a08591df1f8ad5c223ddedfb1a06da92f24f7c
+  Plaid: 2a8f732cf653a6929ec6ef3b55f17256f46a9582
+
+PODFILE CHECKSUM: c83dbd4b3f7c937184ce96242526833a86c851ea
+
+COCOAPODS: 1.9.3
